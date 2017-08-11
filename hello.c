@@ -1,3 +1,9 @@
+number:555
+
+number:555
+number:555
+number:555
+
 please input a num :
 
 555
