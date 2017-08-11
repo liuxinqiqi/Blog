@@ -4,3 +4,9 @@ please input a num :
 
 
 come on !
+
+
+print "hello world!
+print "hello world!
+print "hello world!
+print "hello world!
